@@ -1,0 +1,9 @@
+django
+gunicorn
+django-heroku
+requests
+telebot
+PyTelegramBotAPI==3.6.7
+dnspython
+pytube
+regex
